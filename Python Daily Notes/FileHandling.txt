@@ -1,0 +1,24 @@
+File Handling:
+
+File handling is one of the of ,ost importamt aspect in any programming language.
+
+in python , the key funtion we used is called "open()"
+
+this ope method will take exactly two arguments in place
+
+
+1.filepath
+2.mode of file 
+
+	* r - read --- only to read no other operation allowed, error when no file is availble
+	* a - append --- add data to the existing file, error if no file exist
+	* w - write --- open the file write, if no file exist create new file, else overwrite
+	* x - create --- create a new raise error if the file is already exist
+
+	* t--- text mode 
+	* b ---- binary
+
+
+can we combine two modes at a time say like i would like to work on a file where i can do write and read operation, is that possible?
+
+Yes, by keeping as r+

@@ -1,0 +1,63 @@
+Starting woth python programming language:
+
+
+python is a programming language which is used as server programming language
+
+using python one can develop the applications like 
+
+	* web-based application as a server side programming using the frameworks called 
+	Django and flask.
+
+	*can develop desktop application using Tkinter,PyQT frameworks
+	* can use to test the webbased application using the selenium
+	* can use to stmulate API and also used for API testinh
+	
+python has numerous of inbuilt packages where other programming language doesnt have
+
+python is a very easy programming , it does not required any prior programming knowledge.
+
+python is called as leyman programming language
+
+
+variables:
+
+variables are called as memeory holders to store the values in the program
+
+basically there will be  a mai memory block available where your python is installed.
+
+we take that as working memeory location
+
+
+
+when ever i create a variable . based on the type of data a memory block will be created
+
+when ever i want to get the value of a variable i should call it by the name of the variable.
+
+how to create a variable in python:
+
+in other programming languages, we have datatypes, but in python we wont have any datatyes we consider every thing as an object.
+
+based on the data assignment, the memory block will be created with the respective size.
+
+syntax:
+
+variableName=someValue
+
+to see the out put:
+
+in python we use a method called print(variablename)
+
+to print the descriptive output , we use strings 
+
+string are also called as text data
+
+strings are represented in single quotes,triple quotes, double quotes
+
+
+
+
+
+
+
+
+

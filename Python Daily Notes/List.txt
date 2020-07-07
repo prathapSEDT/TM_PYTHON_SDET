@@ -1,0 +1,49 @@
+Iteratable objects
+
+List
+Tuple
+Set
+Dict
+
+list is called as ordered and changeeable which allows the duplicate values
+
+tuple is a collectionwhich is orderd and not changeable
+
+set is a collectionwhich is ordered and no indexed
+
+dict is a collection which is unordered changeable and indexed, no duplicate members
+
+
+we know that python variable can store max of one value one at a time.
+
+to store multiple values we use collection objects.
+
+
+List:
+list is called as ordered and changeeable which allows the duplicate values
+list is represented in []
+lis stores the data at the repective index position
+to get the vaules we must need to specify from which index you want to get the data
+
+
+Accessing elements of a list:
+
+1.by passing index
+2.using for each loop
+
+changing values of a list:
+
+list values can change, by passing the index at what position we need to change
+
+add elements to the list:
+
+append method
+
+
+check if the element is exist or not?
+
+use in oeprator
+
+Can i insert a value in between the index?
+
+Yes , use the method called "insert"

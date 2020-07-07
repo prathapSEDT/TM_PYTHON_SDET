@@ -1,0 +1,39 @@
+Types:
+
+Single:
+
+One parent and one child
+
+
+Multilevel:
+
+
+multiple inheritance:
+
+one child , multiple parents
+
+
+MRO:
+
+what is meant by mro in python
+
+method resolution order
+
+in one of class i have a method called add()
+in my other class also i have a method called add()
+
+my class, where i am working is inheriting both the above listed classes
+
+now if i create an object to the working class, which class method will get executed?
+
+here we should understand about MRO.
+
+MRO tell that the order of classes given while inheriting the properties
+
+EX:
+
+child(parent2,parent1):
+
+
+obj=child()
+obj.add()----- parent2 class add method will call 

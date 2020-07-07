@@ -1,0 +1,9 @@
+How to connect to database in python:
+
+Database is used to store the data in terms of rows and columns
+
+The data available in the database is called as structured data.
+
+inn python to access the database , we must install a package called pyodbc.
+
+this package is not same for every datatbase

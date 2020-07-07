@@ -1,0 +1,42 @@
+inheritance in python:
+
+python supports all types of inheritance
+
+inheritance is the process of acquiring properties of once by an other class.
+
+it is the process of establishing the relation ships between the classes
+
+it helps in achiving the priniciple of reusability
+
+we all know that to get the properties of calss, we need to create an object to that class such that we can see the properties of a class, but when we have inheritance in place wo dont required such type of object creation.
+
+
+there are different types of inheritance available
+
+	* single level
+	* multilevel inheriatnce
+	* multiple
+	* hireracial inheritance.
+
+
+the role of constructor will also get changed when we have inheritance in place.
+
+
+
+What is super()?
+
+The super is a built in proxy object, temporary object of the superclass that allows us to access the methods and variables of the parent class.
+
+when we have self keyword, why should we use super () 
+
+
+when there are common properties available in both parent and child class, to differentiate between parent class properties and child classproperties we user super
+
+when there are no commn properties available in both parent and child, we use self keyword.
+
+self havdee capacity to access both parent and child.
+
+
+
+
+

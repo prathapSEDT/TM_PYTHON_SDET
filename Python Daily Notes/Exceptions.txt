@@ -1,0 +1,31 @@
+Exception Handling:
+
+If there is weired behaviour on the code logic we called it as an exception
+
+when there is an exception raised the process of execution will be terminated abnormally.
+
+suppose i tried to read a file but unfortunate there is no file available.
+
+after reading the file i need to publisg my results.
+
+
+when there is no file available, if we start executing the script, python will raise an exception and it will terminate the process abnormally.
+so that you can not process to print the results.
+
+now either exception is raised or not no matter i need to proceeed further and go ahead to publish the results. in order to do this we need to control the exception smartly in python programming using exception handling concept.
+
+
+in python exception handling can be achived using 
+
+	try:
+
+	except:
+
+	finally:
+
+
+try is a block where we need to write the risky code
+
+except is the block which can catch any kindo f execption , where user need to write the controlling logic for the raised execption.
+
+finally block is the block where we need to write the logic for the smooth clousere where this block will execute 100% ir-respective of exception that is raised. 

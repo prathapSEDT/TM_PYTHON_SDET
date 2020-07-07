@@ -1,0 +1,6 @@
+1.Create a project
+2.have 3 different json file of each environment
+
+3.create a config file, haave a key with EXECUTE
+
+if i give the execute key with value as QA, i shoukd be in the position to read QA related json file

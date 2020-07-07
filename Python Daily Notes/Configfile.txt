@@ -1,0 +1,16 @@
+Read config file:
+
+config file is used as a properties file to store the application details like env urls, ouputpath etc..
+
+to read this config file we use config parser
+
+the extension of this file will be cnf
+
+synatx to be on the file is
+
+[SECTION_NAME]
+PROPERTY=VALUE
+
+
+
+to get the data from the cnf file we must need to get by the section name and with property name

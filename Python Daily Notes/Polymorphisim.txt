@@ -1,0 +1,15 @@
+Polymorphisim:
+
+Ability to have more than one form
+
+generally we call polymorphisim as method overloading and mthod overriding
+
+overloading:
+same class , same method name, different parameter
+but python will not allow to have overloading30
+
+
+
+overriding:
+
+different class, same methodname, same params, different logic

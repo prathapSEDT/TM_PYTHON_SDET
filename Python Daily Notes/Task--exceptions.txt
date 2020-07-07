@@ -1,0 +1,9 @@
+task:
+
+create a method with 4 arguments
+
+inside a method keep a check to verify that the arguments are not empty
+
+make one argument to a file name, write a logic to check if the file is available or not else raise an exception
+
+when there is an exception raised, you must try to allow the user to browse new file till the the file is valid.

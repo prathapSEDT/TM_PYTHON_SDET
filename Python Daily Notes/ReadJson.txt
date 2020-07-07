@@ -1,0 +1,29 @@
+How to work with json data?
+
+in python we have a inbuilt module called json
+
+using this module we can read/write a json files
+
+in python using json module, there are4 methods available
+
+		* load
+		* loads
+		* dump
+		* dumps
+
+load-- this method is used to read the json file data
+
+loads--- this method is used to convert the python json string into json object
+
+dump--- this method is used to write the json data on a physical file
+
+dumps-- this method is used to print the data in json format on the console
+
+
+
+
+json is called java script object notation
+
+it looks as same as dict
+
+from the dict if we want to get the data, we must retrive by using the key

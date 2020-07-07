@@ -1,0 +1,71 @@
+Definitions in python:
+
+def are called as block of code which is used for the puropse of reusability.
+
+we write the business logic inside it and when ever it is required we call particular method and we use it.
+
+it avoid code duplication.
+
+
+def methodname():
+
+	//indentation must
+
+
+to call any method we must need to call them by the name of the method.
+
+
+these definitions are also accept inputs and at the same time it will return teh output to the user
+
+can i assign a def to a variable as an value??
+
+yes, only if the method is returning a  value
+
+
+
+where will i use this methods in my realtime project?
+
+testcase :
+Tc_01:
+1.launch the browser(ie,chrome,ff)
+2.open the application
+3.click on the register link
+4.fill deatils(valid/invalid)
+5.submit
+6.validate sucessfull message
+
+Tc_02:
+1.launch the browser
+2.open the application
+3.click on the regis
+ter link
+4.fill invalid deatils
+5.submit
+6.validate error message
+
+
+
+catogorize into modules
+
+1.GenericModules
+	** Generic definition
+
+		* opening browser
+		* closing browser
+		* creating results
+		* sending email with results
+
+
+2.Application Modules
+	1.Login
+	2.Registartion module
+	3.Summary
+	4.Logout
+
+
+
+	
+
+
+
+

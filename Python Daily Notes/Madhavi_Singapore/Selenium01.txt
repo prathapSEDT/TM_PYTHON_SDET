@@ -1,0 +1,62 @@
+identification of elements in selenium
+
+
+elements can be identified by using locators like
+
+	* id
+	* name
+	* xpath
+	* css
+	* tagname
+	* classname
+	* linktext
+	* partial link text
+
+
+in selenium to identify any element we must use DOM structure
+
+DOM stand for document object model.
+
+in html we have different webcontrols
+
+1.link:
+tml tag for the link is <a>...</a>
+
+<a>--- html tag
+..... >> innertext or innerHTML
+
+if we find any tag having open and close <></>=== we call it as paired html tags
+
+
+when you found a link on the webapplication, you can identify it by a locator called "linktext"
+
+2.Radio Button:
+we can choose only one option
+
+<input type="radio">----
+
+when ever you found input tag, it is called as a unpaired html tag
+
+
+identify the element with id:
+
+<input type="radio" value="M" id="gender-male" name="Gender">
+
+
+in this tag
+
+htmltag-----input
+
+type and value ,id name are called as attributes
+
+
+in selenium to identify the elements by id.
+
+driver.find_element_by_id("id value")
+
+
+
+
+
+
+

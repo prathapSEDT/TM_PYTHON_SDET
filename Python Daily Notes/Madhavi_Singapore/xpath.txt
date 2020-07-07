@@ -1,0 +1,17 @@
+How to get the text from an application?
+
+gettext is one of the method available
+
+this gettext will helps the user to get the text from paired html tag only
+
+<>..</>
+
+when there is no attribute available, we should need to identify teh element based on their xpath
+
+1.simple xpath:
+
+//htmltag[@attribute='value']
+
+when the tag is paired html tag , then use the below xpath syntax
+
+//htmltag[text()='value']

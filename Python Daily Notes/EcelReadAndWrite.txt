@@ -1,0 +1,40 @@
+How to read data excel file?
+
+Python use a module called openpyxl or xlrd
+
+xlrd is seasy and more fexible to use
+
+using pandas also it is veryeasy to read an excel file
+
+before that, we must need to understand that excel is a workbook which is having worksheets where we store structured data inside it
+
+the data in the excel will stored in respective rowsand columns.
+
+
+workbook contains sheets
+
+sheets contains rows and coloumns
+
+intersection of row and column is called as a cell.
+
+cell contains data.
+
+
+# Use Google....
+
+Have two dataframes with same data , change few columns data 
+
+find the differeces between tow columns in pandas----- hint use sub method
+
+
+Have a dataframe with dates and numbers
+
+idenifty the most recent data and print number mapped to the date
+
+
+Have a dataframe with employee details having city., print all employees who belongs to same state.
+
+
+
+
+

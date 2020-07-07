@@ -1,0 +1,30 @@
+add()
+
+difference()
+
+differenceupdate()
+differene update will removes the item that exist in both the sets
+
+discard()--this method is used to remove a specific element
+remove()---in remove if the user specified element is not available, then it will raise an error
+
+intersection()
+returns a set that contains item which exist in both the sets a and b.
+
+issubset():check if set 1 elements are partof set2
+
+pop(): in list or tuple will remove the element exist in the last index, but where as in set, it will remove the element randomly
+
+******************************************************************************************
+
+dict is a coolection object which is unrdered changeable and indexed
+dict are represented in {}
+dict will have key and value pairs
+keys should not a duplicate, it will not throw any exception but it will take the most recent key.
+
+in dict to get the value, we must specify the key name.
+
+the value mapped to the key will be printed.
+
+
+

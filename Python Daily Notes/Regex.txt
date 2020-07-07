@@ -1,0 +1,9 @@
+my email id : firstname12.lastname345@abc.com
+
+
+for special characters: \special character
+
+one or more characters except new line *
+one or more characters including new line .*
+only numerics \d
+only alphabets \D

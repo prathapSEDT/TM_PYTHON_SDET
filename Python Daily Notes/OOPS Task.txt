@@ -1,0 +1,12 @@
+create a class and have a construtor in place
+
+inside a constructor have alogic of connecting to database
+
+
+write a method to insert data into datatabase.
+
+Conditions:
+
+get the databasename, servername from the configfile
+
+Create a folderstructure accordingly to maintain the standards.

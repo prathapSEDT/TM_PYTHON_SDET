@@ -1,0 +1,74 @@
+OOPS in python:
+
+Object oriented programming.
+it is one of the popular and sucessfull approch to solve any problem by creating some relationship between the modules.
+the main purpose of this concept is to achive the process of reusabilty.
+
+we mainly write the business logics inside a class.
+
+in python we can write code in different ways, but writting code implementing oops is always a definite one.
+
+to access the content of a class we must need to define an object
+
+object is called as an instance of a class.
+object have two characteristics
+	* attributes
+	* behaviour
+
+attributes nothing but variables
+behaviour is nothing but methods.
+
+how to create a class in python
+
+syntax:
+
+class ClassName:
+  // logic
+
+  employeename= 'prathap'
+
+here employeename is called class attribute( variable)
+
+  def addDetails():
+
+	print("adding details to the database")
+
+// add details is called as behaviour
+
+
+inside a class if we want to access the class level details, we must use the keyword called "self"
+
+self is used to represent the properties of a current class
+
+
+When we write a logic in oops, and if we want to send data to the class level variable, we must need a place holder.
+
+that place holder is called as "constructor"
+
+in python to send data to the class we use construtor
+
+in python constructor will be defined as __ini__()
+
+()---- is place holder to send data to the classmemebers.
+
+
+syntax of a constructor is 
+
+
+	def __init__():
+
+		//write a logic here
+
+Note:
+if we dont have a variable at the classlevel, we can create a variable inside a constructor by using self keyword.
+
+this variable can be used at any place
+
+
+How constructor will work?
+
+when ever we create an object to a class, automatically the constructor will get triggered.
+
+when the constructor is being triggered it will check teh number of arguments are getting matched or not.
+
+if any arguments are missed then it will throw an exception.

@@ -1,0 +1,21 @@
+remove element:
+
+remove is the method which removes the element from the list
+
+pop ():
+this method removes the specific index item or the last item
+
+del:
+this del keyword is used to delete the entire object physically from the memeory
+the isntances will not be available
+
+clear()
+this method is used to clear all the elements available in the list
+
+extend()
+to join two list
+
+reverse()
+
+count():
+this method will count how many time does the user given element is repeated on the collection object
