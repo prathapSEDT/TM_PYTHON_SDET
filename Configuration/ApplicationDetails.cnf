@@ -1,0 +1,9 @@
+[ENVIRONMENT]
+EXE=QA
+
+[QA_URL]
+URL=https://codebeautify.org/jsonviewer
+
+[DB_DETAILS]
+SERVER_NAME=
+EMPLOYEE_DETAILS=
