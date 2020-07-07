@@ -2,3 +2,4 @@
 **/venv
 **/TestCases/.pytest_cache
 **/TestCases/__pycache__
+**/testing
